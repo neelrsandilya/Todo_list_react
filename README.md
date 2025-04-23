@@ -4,7 +4,7 @@ It is a simple and fast To-Do List web application built using **React** and **V
 
 ---
 
-## 🚀 Features
+##  Features
 
 -  Add and remove tasks
 -  Mark tasks as complete or incomplete
@@ -15,7 +15,7 @@ It is a simple and fast To-Do List web application built using **React** and **V
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - [React](https://reactjs.org/)
 - [Vite](https://vitejs.dev/)
@@ -23,7 +23,7 @@ It is a simple and fast To-Do List web application built using **React** and **V
 
 ---
 
-## 📦 Installation
+##  Installation
 
 1. **Clone the repo**
    ```bash
